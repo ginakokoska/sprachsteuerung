@@ -7,9 +7,9 @@ In diesem Falle kann man sich einen Sprachgesteuerten Roboterrarm vorstellen der
 Das verwendetete Messprinzip, Aufbau und Messmittel sowie die Auswertung und Interpretation sind in einem 
 Protokoll erläutert.
 
-Der Code sollte in der folgenden Reihenfolge ausgeführt werden:
-> ./aufnahmetriggered.py
-> ./PlotA1.py
-> ./rechnureferenzspektrum.py
-> ./plotreferenzspek.py
+Der Code sollte in der folgenden Reihenfolge ausgeführt werden: 
+> ./aufnahmetriggered.py\
+> ./PlotA1.py\
+> ./rechnureferenzspektrum.py\
+> ./plotreferenzspek.py\
 > ./korrel.py
